@@ -8,6 +8,7 @@ public class ParseInt {
 		String price ="5000";
 		 int n=Integer.parseInt(price);
 		System.out.println(n+123);
+		System.out.println(n+123);
 	}
 
 }
